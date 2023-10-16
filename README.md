@@ -1,7 +1,12 @@
-# Java API Exercise
+# Java Docker Tutorial
 
 ## Learning Objectives
-- Sample
+- Create a simple docker container
+- Run the container and interact with it
+- Make a more complex container
+- Interact with that container
+- Upload containers to Docker Hub
+- Containerise a Spring Application, run it and interact with it
 
 ## Instructions
 
